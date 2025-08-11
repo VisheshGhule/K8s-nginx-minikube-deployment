@@ -1,4 +1,4 @@
-fdkjc
+## Kubernetes with Minikube (Nginx Deployment)
 ---
 ### Quick checks. Confirm you have intsall below things.
 ```bash
